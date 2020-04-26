@@ -2,7 +2,7 @@
 An application which helps solo travelers meet new people, based on common interests.
 
 
-![Prototype](https://wangx733.github.io/flocker/images/prototype.png)
+![Prototype](https://wangx733.github.io/flocker/images/logo.jpg)
 
 Challenge :  How might we improve the travel experience for solo travelers
 
@@ -16,7 +16,7 @@ My core duties :
 ## Video demo
 (click on image to watch the video)
 
-[![Recorded demo](https://wangx733.github.io/flocker/images/logo.jpg)](https://youtu.be/flJYcaGrT6k)
+[![Recorded demo](https://wangx733.github.io/flocker/images/prototype.png)](https://youtu.be/flJYcaGrT6k)
 
 ## Value Proposition
 In this project, we did both qualitative and quantitative user research on the pain points of finding travel partners. We interviewed 8 people aged from 20s to 40s. And they shared a common concern about compatibility when it comes to travel partners.
