@@ -28,7 +28,7 @@ Here are the technologies we used:
  * Heroku Plugins: Cloudinary, JawsDBMySQL
  * Libraries: pretty checkbox, jQuery
  
-![Tech stack](https://wangx733.github.io/dearTime/images/tackstack.svg)
+![Tech stack](https://wangx733.github.io/dearTime/images/techstack.svg)
 
 ## Data Model
 ![Data model](https://wangx733.github.io/dearTime/images/dataModel.png)
