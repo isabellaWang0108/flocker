@@ -6,9 +6,9 @@ Challenge :  How might we improve the travel experience for solo travelers
 Deployed on Heroku link: [deployed link](https://stormy-caverns-59086.herokuapp.com/)
 
 My core duties : 
-⋅⋅*  Infrastructure design
-⋅⋅*  Frontend Component
-⋅⋅*  Algorithm
+*  Infrastructure design
+*  Frontend Component
+*  Algorithm
 
 ## Video demo
 (click on image to watch the video)
