@@ -3,7 +3,7 @@ An application which helps solo travelers meet new people, based on common inter
 
 Challenge :  How might we improve the travel experience for solo travelers
 
-Deployed on Heroku link: [deployed link](https://stormy-caverns-59086.herokuapp.com/)
+Deployed on Heroku: [deployed link](https://stormy-caverns-59086.herokuapp.com/)
 
 My core duties : 
 *  Infrastructure design
@@ -22,15 +22,16 @@ In this project, we did both qualitative and quantitative user research on the p
 
 
 ## Tech Stack
-We used github to work together on coding.
 Here are the technologies we used:
-  language: HTML, CSS, Javascript
- ⋅⋅* Heroku Plugins: Cloudinary, JawsDBMySQL
- ⋅⋅* Libraries: pretty checkbox, jQuery
-![value proposition](https://wangx733.github.io/dearTime/images/tackstack.svg)
+
+ * language: HTML, CSS, Javascript
+ * Heroku Plugins: Cloudinary, JawsDBMySQL
+ * Libraries: pretty checkbox, jQuery
+ 
+![Tech stack](https://wangx733.github.io/dearTime/images/tackstack.svg)
 
 ## Data Model
-![value proposition](https://wangx733.github.io/dearTime/images/dataModel.png)
+![Data model](https://wangx733.github.io/dearTime/images/dataModel.png)
 
 ## Matching Algorithm
 For the design of matching people, we decided to go with the theory that the more people are alike, the better they get alone with each other Thus, we just check every single options in the database, one same item = 1 point. The more common answers the higher the score. Then, we just display the users in order of high to low base on the score.
@@ -116,5 +117,5 @@ For the design of matching people, we decided to go with the theory that the mor
 ![user flow](https://wangx733.github.io/dearTime/images/workflow.png)
 
 ## Future direction
-  ⋅⋅* Membership module
-  ⋅⋅* Ai based searching function
+  * Membership module
+  * Ai based searching function
