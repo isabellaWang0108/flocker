@@ -1,6 +1,9 @@
 # Flocker
 An application which helps solo travelers meet new people, based on common interests.
 
+
+![Prototype](https://wangx733.github.io/flocker/images/prototype.png)
+
 Challenge :  How might we improve the travel experience for solo travelers
 
 Deployed on Heroku: [deployed link](https://stormy-caverns-59086.herokuapp.com/)
