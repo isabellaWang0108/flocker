@@ -16,7 +16,7 @@ My core duties :
 [![Recorded demo](https://wangx733.github.io/flocker/images/logo.jpg)](https://youtu.be/flJYcaGrT6k)
 
 ## Value Proposition
-In this project, we did both qualitative and quantitative user research on the pain points of finding travel partners. We interviewed 8 people age from 20s to 40s. And they shared a common concern about compatibility when it comes to travel partner.
+In this project, we did both qualitative and quantitative user research on the pain points of finding travel partners. We interviewed 8 people aged from 20s to 40s. And they shared a common concern about compatibility when it comes to travel partners.
 
 ![Personas](https://wangx733.github.io/dearTime/images/persona.jpg)
 
@@ -34,7 +34,7 @@ Here are the technologies we used:
 ![Data model](https://wangx733.github.io/dearTime/images/dataModel.png)
 
 ## Matching Algorithm
-For the design of matching people, we decided to go with the theory that the more people are alike, the better they get alone with each other Thus, we just check every single options in the database, one same item = 1 point. The more common answers the higher the score. Then, we just display the users in order of high to low base on the score.
+For the design of matching people, we decided to go with the theory that the more people are alike, the better they get alone with each other Thus, we just check every single option in the database, one same item = 1 point. The more common answers the higher the score. Then, we just display the users in order of high to low based on the score.
 
 ```javascript
    // the list of people
@@ -119,3 +119,6 @@ For the design of matching people, we decided to go with the theory that the mor
 ## Future direction
   * Membership module
   * Ai based searching function
+
+
+
