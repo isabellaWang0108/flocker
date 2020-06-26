@@ -2,7 +2,7 @@
 An application which helps solo travelers meet new people, based on common interests.
 
 
-![Prototype](https://wangx733.github.io/flocker/images/logo.jpg)
+![Prototype](https://isabellaWang0108.github.io/flocker/images/logo.jpg)
 
 Challenge :  How might we improve the travel experience for solo travelers
 
@@ -16,12 +16,12 @@ My core duties :
 ## Video demo
 (click on image to watch the video)
 
-[![Recorded demo](https://wangx733.github.io/flocker/images/prototype.png)](https://youtu.be/flJYcaGrT6k)
+[![Recorded demo](https://isabellaWang0108.github.io/flocker/images/prototype.png)](https://youtu.be/flJYcaGrT6k)
 
 ## Value Proposition
 In this project, we did both qualitative and quantitative user research on the pain points of finding travel partners. We interviewed 8 people aged from 20s to 40s. And they shared a common concern about compatibility when it comes to travel partners.
 
-![Personas](https://wangx733.github.io/flocker/images/persona.jpg)
+![Personas](https://isabellaWang0108.github.io/flocker/images/persona.jpg)
 
 
 ## Tech Stack
@@ -31,10 +31,10 @@ Here are the technologies we used:
  * Heroku Plugins: Cloudinary, JawsDBMySQL
  * Libraries: pretty checkbox, jQuery
  
-![Tech stack](https://wangx733.github.io/flocker/images/techstack.svg)
+![Tech stack](https://isabellaWang0108.github.io/flocker/images/techstack.svg)
 
 ## Data Model
-![Data model](https://wangx733.github.io/flocker/images/dataModel.png)
+![Data model](https://isabellaWang0108.github.io/flocker/images/dataModel.png)
 
 ## Matching Algorithm
 For the design of matching people, we decided to go with the theory that the more people are alike, the better they get alone with each other Thus, we just check every single option in the database, one same item = 1 point. The more common answers the higher the score. Then, we just display the users in order of high to low based on the score.
@@ -117,7 +117,7 @@ For the design of matching people, we decided to go with the theory that the mor
 
 ## User flow
 
-![user flow](https://wangx733.github.io/flocker/images/workflow.png)
+![user flow](https://isabellaWang0108.github.io/flocker/images/workflow.png)
 
 ## Future direction
   * Membership module
